@@ -163,6 +163,6 @@
     "invariant": "^2.2.4"
   },
   "peerDependencies": {
-    "react-native-svg": "^13.6.0",
+    "react-native-svg": "^13.6.0"
   }
 }
